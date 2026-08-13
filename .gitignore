@@ -32,3 +32,14 @@ dist/
 # Logs
 *.log
 
+# Local temporary source documents
+_roadmap_source.docx
+~$*.docx
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.class
+target/*
